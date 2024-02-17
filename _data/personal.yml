@@ -1,44 +1,35 @@
-name: Ian Li
+name: Ankit Kapoor
 
-label: UI Designer
+label: Computer Scientist and Academic
 
-picture: /img/profile-picture.jpg
+picture: /img/profile-photo
 
-email: ianli@ianli.com
+email: -
 
-phone: 
+phone: -
 
-department: Android UX
+department: -
 
-institution: Google
+institution: The University of Sydney, The University of New South Wales, TikTok
 
 mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+  -
 
 profiles:
-  - 
-    network: Google Scholar
-    username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
   -
     network: LinkedIn
     username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+    url: https://www.linkedin.com/in/ankit-kapoor-a701a41b1/
+  - 
+    network: Facebook
+    username:
+    url: https://www.facebook.com/Ankit112002/
   -
-    network: Twitter
-    username: ianli
-    url: https://twitter.com/ianli/
+    network: X / Twitter
+    username: AnkitKapoor2002
+    url: https://twitter.com/AnkitKapoor2002
 
 intro:
   title: Hello!
   body: >
-    I'm a UI designer at Google.
-    Before Google, I was a Ph.D. student in the 
-    [Human-Computer Interaction Institute](http://hcii.cs.cmu.edu/) at Carnegie Mellon University.
-    My advisors were 
-    [Anind Dey](http://www.cs.cmu.edu/~anind/) and 
-    [Jodi Forlizzi](http://goodgestreet.com/). 
-    I worked on designed and developed 
-    [personal informatics tools](http://www.personalinformatics.org/) that help people better understand their own behavior.
-    [My dissertation](http://ianli.com/thesis/) explored how contextual information can improve self-knowledge in personal informatics systems.
+    -
